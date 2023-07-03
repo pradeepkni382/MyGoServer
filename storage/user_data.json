@@ -1,0 +1,113 @@
+{
+  "users": [{
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "favoriteFood": "Pizza",
+    "wishlist": [
+      "Sushi",
+      "Burger",
+      "Ice Cream"
+    ]
+  },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "favoriteFood": "Tacos",
+      "wishlist": [
+        "Pasta",
+        "Steak",
+        "Chocolate Cake"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michaeljohnson@example.com",
+      "favoriteFood": "Sushi",
+      "wishlist": [
+        "Pizza",
+        "Salad",
+        "Donuts"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "favoriteFood": "Burger",
+      "wishlist": [
+        "Tacos",
+        "Ice Cream",
+        "Sushi"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Daniel Wilson",
+      "email": "danielwilson@example.com",
+      "favoriteFood": "Steak",
+      "wishlist": [
+        "Pasta",
+        "Pizza",
+        "Burger"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Olivia Anderson",
+      "email": "oliviaanderson@example.com",
+      "favoriteFood": "Ice Cream",
+      "wishlist": [
+        "Sushi",
+        "Pizza",
+        "Pasta"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "James Martinez",
+      "email": "jamesmartinez@example.com",
+      "favoriteFood": "Salad",
+      "wishlist": [
+        "Burger",
+        "Tacos",
+        "Ice Cream"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sophia Thomas",
+      "email": "sophiathomas@example.com",
+      "favoriteFood": "Pasta",
+      "wishlist": [
+        "Steak",
+        "Pizza",
+        "Sushi"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "William Taylor",
+      "email": "williamtaylor@example.com",
+      "favoriteFood": "Donuts",
+      "wishlist": [
+        "Burger",
+        "Ice Cream",
+        "Salad"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Ava Robinson",
+      "email": "avarobinson@example.com",
+      "favoriteFood": "Chocolate Cake",
+      "wishlist": [
+        "Pizza",
+        "Steak",
+        "Burger"
+      ]
+    }
+  ]
+}
